@@ -55,12 +55,12 @@ Material:
     - _R: 0.1
     - _Size: 0.627
     - _SpeedY: 0.01
-    - _Weight: 0.94
+    - _Weight: 0
     - _ptlRadius: 0.02
     m_Colors:
     - _AmbientColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Direction: {r: 0, g: 0, b: 0, a: 0}
-    - _DisintegrationColor: {r: 6.8831806, g: 2.7062078, b: 1.4707652, a: 1}
+    - _DisintegrationColor: {r: 6.8831816, g: 1.4775416, b: 3.8708937, a: 1}
     - _DissolveColor: {r: 1, g: 0.49622637, b: 0.91139054, a: 1}
   m_BuildTextureStacks: []
